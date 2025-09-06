@@ -187,6 +187,36 @@ const allTechs = [
     logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
     color: "#FCC624",
   },
+  {
+    name: "Astro",
+    logo: "https://raw.githubusercontent.com/devicons/devicon/master/icons/astro/astro-original.svg",
+    color: "#BC52EE",
+  },
+  {
+    name: "Supabase",
+    logo: "https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg",
+    color: "#3ECF8E",
+  },
+  {
+    name: "Remix",
+    logo: "https://raw.githubusercontent.com/remix-run/remix/main/assets/remix-logo.svg",
+    color: "#000000",
+  },
+  {
+    name: "Solid.js",
+    logo: "https://raw.githubusercontent.com/devicons/devicon/master/icons/solidjs/solidjs-original.svg",
+    color: "#2C4F7C",
+  },
+  {
+    name: "Vite",
+    logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg",
+    color: "#646CFF",
+  },
+  {
+    name: "Bun",
+    logo: "https://bun.sh/logo.svg",
+    color: "#000000",
+  },
 ];
 
 const highlights = [
