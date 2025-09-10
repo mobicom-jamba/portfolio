@@ -8,7 +8,6 @@ const experiences = [
   {
     role: "Senior Software Engineer",
     company: "Mobicom Corporation",
-    // location: "Ulaanbaatar, Mongolia",
     period: "2022 - 2025",
     type: "Full-time",
     description:
