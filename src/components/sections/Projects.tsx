@@ -45,9 +45,9 @@ const projects = [
       uptime: "99.9%",
     },
     links: {
-      live: "https://example.com",
-      github: "https://github.com",
-      demo: "https://demo.example.com",
+      live: "https://webio.site/",
+      // github: "https://github.com",
+      // demo: "https://demo.example.com",
     },
     color: "from-cyan-400 to-blue-500",
   },

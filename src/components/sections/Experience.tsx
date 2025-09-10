@@ -9,7 +9,7 @@ const experiences = [
     role: "Senior Software Engineer",
     company: "Mobicom Corporation",
     // location: "Ulaanbaatar, Mongolia",
-    period: "2022 - Present",
+    period: "2022 - 2025",
     type: "Full-time",
     description:
       "Driving large-scale digital transformation projects in telecom and fintech. Leading backend and AI-powered system development across multiple platforms.",
