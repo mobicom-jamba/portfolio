@@ -178,11 +178,6 @@ const allTechs = [
     color: "#C21325",
   },
   {
-    name: "Jenkins",
-    logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg",
-    color: "#D24939",
-  },
-  {
     name: "Linux",
     logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg",
     color: "#FCC624",
